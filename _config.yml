@@ -1,0 +1,28 @@
+name: Stephen Paul Krueger
+favicon: null
+layout_spectrum: 0.0812293915078044
+typography_spectrum: 0.589172585401684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8000550381839275
+  lightness: 0.04246126348152757
+  saturation: 0.5927383077796549
+  rhythmicContrast: 0.8914050026796758
+purpose: []
