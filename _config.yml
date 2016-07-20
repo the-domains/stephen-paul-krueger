@@ -1,6 +1,6 @@
 name: Stephen Paul Krueger
 favicon: null
-layout_spectrum: 0.24935
+layout_spectrum: 0.49309
 typography_spectrum: 0.14625
 title: Stephen Paul Krueger
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#bcc5d4'
+    - '#050608'
+    - '#faf8fb'
+    - '#ad9676'
+    - '#3e4346'
   brandStrength: 1
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
